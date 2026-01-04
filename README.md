@@ -65,8 +65,8 @@ Figure 1: Automated scan results identifying security gaps within the applicatio
 
 ## 📁 Project Deliverables
 * [**Detailed Security Report (PDF)**](./Security_Assessment_Report.pdf) - My executive summary and deep-dive analysis.
-* [**OWASP Top 10 Checklist**](./OWASP_Top_10_Checklist.xlsx) - Mapping findings to industry-standard benchmarks.
-* [**Automated Scan Logs**](./logs/ZAP-Scan-Log.pdf) - The raw output from the OWASP ZAP engine.
+* [**OWASP Top 10 Checklist**](./OWASP_Top_10_Compliance_Checklist.xlsx) - Mapping findings to industry-standard benchmarks.
+* [**Automated Scan Logs**](./Logs/2025_12_29_ZAP_Report.pdf) - The raw output from the OWASP ZAP engine.
 
 ---
 
