@@ -16,4 +16,4 @@
 ---
 
 ### 🔍 Technical Notes
-* **Finding #7:** Identified as a "Modern Web Application" alert. After technical analysis, it was determined to be a vulnerability in itself and is excluded from the OWASP mapping.
+* **Finding #7:** Identified as a "Modern Web Application" alert. After technical analysis, it was determined not to be a vulnerability in itself and is excluded from the OWASP mapping.
