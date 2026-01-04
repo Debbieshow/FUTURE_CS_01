@@ -1,5 +1,5 @@
-# FUTURE_CS_01
-Internship Project | Web Application Security Testing
+# FUTURE INTERNS - CYBERSECURITY
+Task 1: Web Application Security Testing
 ## 📝 Project Overview
 This repository documents a comprehensive vulnerability assessment of the **OWASP Juice Shop**. The goal was to simulate a professional client engagement by utilizing ethical hacking tools to identify security flaws in the web application, aligning them with the **OWASP Top 10 framework** and developing actionable remediation strategies.
 
